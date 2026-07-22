@@ -66,7 +66,8 @@ pip install -r requirements.txt
   OPENROUTER_API_KEY=sk-or-v1-sua-chave-aqui
 
 5. Execute a aplicação: 
-```bash python main.py
+```bash
+python main.py
 ```
 
 ---

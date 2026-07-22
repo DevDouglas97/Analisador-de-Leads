@@ -1,0 +1,24 @@
+# Variáveis de Ambiente e Chaves de API
+.env
+
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Arquivos de IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
